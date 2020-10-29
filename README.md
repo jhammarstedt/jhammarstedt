@@ -3,11 +3,14 @@
 - 📚 Currently pursuing a masters in machine learning
 - 📈/🤖 Passionate about finance and tech
 - 🛠 More public repos will be added soon!
+  - Most of the others are private from internships or academic purposes
 
-### Connect
+### Connect:
 [<img align="left" alt="hammarstedt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-### Some of the tools and Languages I've used in some form
+<br />
+
+### Some of the tools and languages I've used in some form
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="Pycharm" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqElg3RNpLvAT6WR2ewiAimwFsI8MfxsYYKA&usqp=CAU" />
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" />
