@@ -5,6 +5,8 @@
 - 🛠 More public repos will be added soon!
   - Most of the others are private from internships or academic purposes
 
+### Connect:
+[<img align="left" alt="hammarstedt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
