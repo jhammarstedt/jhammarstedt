@@ -1,4 +1,4 @@
-### Hi and welcome to my github page!
+### Welcome to my github!
 
 - 📚 Currently pursuing a masters in machine learning
 - 📈/🤖 Passionate about finance and tech
