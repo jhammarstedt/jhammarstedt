@@ -2,7 +2,7 @@
 
 - 📚 Currently pursuing a masters in machine learning
 - 📈/🤖 Passionate about finance and tech
-- 🎈 Enjoy Recommendation Systems 
+- 🎈 Enjoy learning about Recommender Systems 
 - 🛠 More public repos will be added soon!
   - Most of the others are private from internships or academic purposes
 
