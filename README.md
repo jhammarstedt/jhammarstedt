@@ -1,10 +1,8 @@
 ### Welcome to my github!
 
-- 📚 Currently pursuing a masters in machine learning
+- 📚 Currently pursuing a masters in machine learning @ KTH
 - 📈/🤖 Passionate about finance and tech
-- 🎈 Enjoy learning about Recommender Systems 
-- 🛠 More public repos will be added soon!
-  - Most of the others are private from internships or academic purposes
+- 🎈 I enjoy learning about Recommender Systems, chat-bots and other cool applications of ML
 
 ### Connect:
 [<img align="left" alt="hammarstedt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
