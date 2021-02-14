@@ -2,6 +2,7 @@
 
 - 📚 Currently pursuing a masters in machine learning @ KTH
 - 📈/🤖 Passionate about finance and tech
+- 🏀 junkie
 - 🎈 I enjoy learning about Recommender Systems, chat-bots and other cool applications of ML
 
 ### Connect:
