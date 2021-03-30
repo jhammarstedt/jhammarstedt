@@ -3,7 +3,7 @@
 - 📚 Currently pursuing a masters in machine learning @ KTH
 - 📈/🤖 Passionate about finance and tech
 - 🏀 junkie
-- 🎈 I enjoy learning about Recommender Systems, chat-bots and other cool applications of ML
+- 🎈 I enjoy learning about cool applications of machine learning to solve interesting problems
 
 ### Connect:
 [<img align="left" alt="hammarstedt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
