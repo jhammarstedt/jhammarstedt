@@ -17,5 +17,12 @@
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/224px-Tensorflow_logo.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png" />
+<img align="left" alt="Scikit" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXCDD7q7wCVdRNtROzgtARnDThPmab6k2x7Q&usqp=CAU" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />
+<img align="left" alt="Java" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3z3PKONGFdzHN53GQBwCBrwFlebYXlQ9k7w&usqp=CAU" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Csharp" width="26px" src="https://miro.medium.com/max/1050/1*w0u2TZpEp3WfKMrlL5jTSw.png" />
 
 [linkedin]: https://www.linkedin.com/in/hammarstedt/
