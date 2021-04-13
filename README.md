@@ -1,8 +1,9 @@
 ### Welcome to my github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 📚 Currently pursuing a masters in machine learning @ KTH
+- 💡 Machine learning/AI enthusiast 
 - 📈/🤖 Passionate about finance and tech
 - 🏀 junkie
-- 🎈 I enjoy learning about cool applications of machine learning to solve interesting problems
+- 🎈 I enjoy learning about cool applications of ML to solve interesting problems
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhammarstedt&hide=stars,issues&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/jhammarstedt/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhammarstedt&theme=onedark&count_private=true&langs_count=5&layout=compact&hide=Jupyter%20Notebook)](https://github.com/jhammarstedt/github-readme-stats)
