@@ -6,8 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhammarstedt&hide=stars,issues&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/jhammarstedt/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhammarstedt&theme=onedark&count_private=true&langs_count=20&layout=compact&hide=JavaScript,Jupyter%20Notebook,CSS,SCSS,HTML)](https://github.com/jhammarstedt/github-readme-stats)
-### Connect:
-[<img align="left" alt="hammarstedt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Connect: [<img alt="hammarstedt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
