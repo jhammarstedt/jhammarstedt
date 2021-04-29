@@ -8,8 +8,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhammarstedt&theme=onedark&count_private=true&langs_count=20&layout=compact&hide=JavaScript,Jupyter%20Notebook,CSS,SCSS,HTML)](https://github.com/jhammarstedt/github-readme-stats)
 ### Connect: [<img alt="hammarstedt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-
 ### Some of the tools and languages I've used:
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="Pycharm" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqElg3RNpLvAT6WR2ewiAimwFsI8MfxsYYKA&usqp=CAU" />
