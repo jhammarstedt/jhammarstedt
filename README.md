@@ -1,9 +1,9 @@
 ### Welcome to my github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /> <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-- 💡 Machine learning/AI enthusiast 
+- 🧸 Machine learning/AI enthusiast 
 - 📈/🤖 Passionate about finance and tech
 - 🏀 junkie
-- 🎈 I enjoy learning about cool applications of ML to solve interesting problems
+- 💡 I enjoy learning new things to solve interesting problems, especially cool applications of ML 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhammarstedt&hide=stars&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/jhammarstedt/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhammarstedt&theme=onedark&count_private=true&langs_count=100&layout=compact&hide=JavaScript,Jupyter%20Notebook,CSS,SCSS)](https://github.com/jhammarstedt/github-readme-stats)
