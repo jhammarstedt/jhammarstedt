@@ -6,11 +6,12 @@
 - 📈/🎵/🤖 Passionate about finance, music and tech in general 
 - 🏀 junkie
 - 💡 I enjoy learning new things to solve interesting problems, especially cool applications of ML 
+### Connect: 
+[<img alt="hammarstedt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhammarstedt&hide=stars&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/jhammarstedt/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhammarstedt&theme=onedark&count_private=true&langs_count=100&layout=compact&hide=JavaScript,Jupyter%20Notebook,CSS,SCSS)](https://github.com/jhammarstedt/github-readme-stats)
-### Connect: [<img alt="hammarstedt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [comment]: <> (### Some of the languages found in here: <img alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" /> <img alt="Csharp" width="30px" height="30px" src="https://miro.medium.com/max/1050/1*w0u2TZpEp3WfKMrlL5jTSw.png" /> <img alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" /> <img alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" /> <img alt="Java" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3z3PKONGFdzHN53GQBwCBrwFlebYXlQ9k7w&usqp=CAU" /> <img alt="HTML" width="30px" height="25px" src="https://banner2.cleanpng.com/20190612/ujg/kisspng-html5-software-developer-javascript-world-wide-web-cng-ty-tnhh-tmdv-chn-hng-my-in-siu-t-5d0108ee8bfb11.9390709815603489105734.jpg" /> )
 
