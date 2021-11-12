@@ -3,7 +3,6 @@
 ### Welcome to my github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /> <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 - 🧸 Machine learning/AI enthusiast 
-- 📈/🎵/🤖 Passionate about finance, music and tech in general 
 - 🏀 junkie
 - 💡 I enjoy learning new things to solve interesting problems, especially cool applications of ML 
 ### Connect: 
