@@ -7,8 +7,7 @@
 - 💡 I enjoy learning new things to solve interesting problems, especially cool applications of ML 
 ### Connect: 
 [<img alt="hammarstedt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammarstedt/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhammarstedt&hide=stars&count_private=true&show_icons=true&theme=onedark&include_all_commits=false)](https://github.com/jhammarstedt/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhammarstedt&theme=onedark&count_private=true&langs_count=100&layout=compact&hide=JavaScript,Jupyter%20Notebook,CSS,SCSS)](https://github.com/jhammarstedt/github-readme-stats)
 
