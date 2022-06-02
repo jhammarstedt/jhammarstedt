@@ -1,10 +1,12 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/52280124/140497722-2495afbd-f2a9-4462-955f-f711bc90254a.gif" width="250" height="150" />
 
-### Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /> <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+# Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"> 
 
-- 🧸 Machine learning/AI enthusiast 
-- 🏀 junkie
-- 💡 I enjoy learning new things to solve interesting problems, especially cool applications of ML 
+&nbsp;&nbsp;&nbsp; <img src="https://www.1law.com/wp-content/uploads/revslider/Landing01/docubot.gif" width="30" height="30"> Machine learning/AI enthusiast 
+
+&nbsp;&nbsp;&nbsp;<img src="https://gifimage.net/wp-content/uploads/2017/09/basketball-animated-gif-1.gif" width="30" height="30"> junkie
+
+&nbsp;&nbsp; <img src="https://i.pinimg.com/originals/ff/cc/c7/ffccc7036a7ac598ba2e3c9268d1c4f2.gif" width="30" height="30"> I enjoy learning new things to solve interesting problems, especially cool applications of ML 
 ### Connect:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammarstedt/)
 <!--[<img alt="hammarstedt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
