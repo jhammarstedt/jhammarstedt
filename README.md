@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp; <img src="https://www.1law.com/wp-content/uploads/revslider/Landing01/docubot.gif" width="30" height="30"> Machine learning/AI enthusiast 
 
-&nbsp;&nbsp;&nbsp;<img src="https://gifimage.net/wp-content/uploads/2017/09/basketball-animated-gif-1.gif" width="30" height="30"> junkie
+&nbsp;&nbsp;&nbsp;🏀 junkie
 
 &nbsp;&nbsp; <img src="https://i.pinimg.com/originals/ff/cc/c7/ffccc7036a7ac598ba2e3c9268d1c4f2.gif" width="30" height="30"> I enjoy learning new things to solve interesting problems, especially cool applications of ML 
 ### Connect:
