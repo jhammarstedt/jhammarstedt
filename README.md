@@ -1,9 +1,8 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/52280124/140497722-2495afbd-f2a9-4462-955f-f711bc90254a.gif" width="250" height="150" />
 
 # Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"> 
-- <img src="https://www.1law.com/wp-content/uploads/revslider/Landing01/docubot.gif" width="30" height="30">Machine learning/AI enthusiast 
-- 🏀, 🏃‍♂️, 🥾
-- <img src="https://i.pinimg.com/originals/ff/cc/c7/ffccc7036a7ac598ba2e3c9268d1c4f2.gif" width="30" height="30"> Enjoy learning new things to solve interesting problems
+- Machine learning/AI enthusiast 
+- 🏀, 🏃‍♂️, 🥾 (Yes I run, hike and do stuff in nature, like every other generic developer)
 ### Connect or reach out:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammarstedt/)
 <!--[<img alt="hammarstedt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
