@@ -53,17 +53,6 @@ Outside the editor you'll find me on a hiking trail, on cross-country skis, on a
   </picture>
 </p>
 
-<!--
-🎧 Spotify "Now Playing" — uncomment once your Vercel-hosted fork of novatorem/spotify-readme is live.
-Replace YOUR_VERCEL_DEPLOY with the real host (e.g. spotify-github-profile-jhammarstedt.vercel.app).
-
-<p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-    <img alt="Currently playing on Spotify" src="https://YOUR_VERCEL_DEPLOY.vercel.app/api/spotify">
-  </a>
-</p>
--->
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:1A1B26&height=120&section=footer)
 
 <!--
