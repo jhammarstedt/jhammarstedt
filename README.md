@@ -1,18 +1,80 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/52280124/140497722-2495afbd-f2a9-4462-955f-f711bc90254a.gif" width="250" height="150" />
+![Hi, I'm Johan — backend and ML engineer in Stockholm](https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:7AA2F7&height=200&section=header&text=Hi%2C%20I'm%20Johan&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Backend%20%26%20ML%20engineer%20%C2%B7%20Stockholm%20%F0%9F%87%B8%F0%9F%87%AA&descSize=18&descAlignY=62&animation=fadeIn)
 
-# Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"> 
-- Machine learning/AI enthusiast 
-- 🏀, 🏃‍♂️, 🥾 (Yes I run, hike and do stuff in nature, like every other generic developer)
+# Backend & ML developer · Stockholm 🇸🇪 · [@gilion-tech](https://github.com/gilion-tech)
 
-  
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammarstedt/)
-<!--[<img alt="hammarstedt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
+<p align="center">
+  <a href="https://github.com/jhammarstedt"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=jhammarstedt&label=Profile+views&color=7aa2f7&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/hammarstedt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7"></a>
+  <img alt="Stockholm" src="https://img.shields.io/badge/Stockholm-1A1B26?style=for-the-badge&logo=googlemaps&logoColor=7AA2F7">
+  <a href="https://www.linkedin.com/in/hammarstedt/"><img alt="Open to chat" src="https://img.shields.io/badge/Open%20to%20chat-1A1B26?style=for-the-badge&logo=maildotru&logoColor=7AA2F7"></a>
+</p>
 
-<!---
-### Toolbox: <img alt="Pycharm" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqElg3RNpLvAT6WR2ewiAimwFsI8MfxsYYKA&usqp=CAU" /> <img alt="Visual Studio" width="30px" height="25px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" /> <img alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" />
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=620&lines=ML+in+production%2C+not+just+in+notebooks;Building+data+products+%40+gilion-tech;Stockholm-based%2C+snow-curious+%E2%9D%84%EF%B8%8F;Reigning+Mario+Kart+champion+(in+my+apartment))](https://github.com/DenverCoder1/readme-typing-svg)
 
- ### Some other tools I find useful: <img alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/224px-Tensorflow_logo.svg.png" /> <img alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" /> <img alt="Gcloud" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-2038785-1721675.png" /> <img alt="Scikit" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXCDD7q7wCVdRNtROzgtARnDThPmab6k2x7Q&usqp=CAU" /> <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img alt="Torch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" /> --->
+</div>
 
-[linkedin]: https://www.linkedin.com/in/hammarstedt/
+## About me
 
+I'm a developer leaning into backend systems and machine learning — currently building data products at [@gilion-tech](https://github.com/gilion-tech), where I get to ship ML that has to meet reality every day. I care about code that holds up in production, not just in notebooks.
+
+Outside the editor you'll find me on a hiking trail, on cross-country skis, on a basketball court, or absolutely demolishing my friends at Mario Kart 8. I still pretend Guitar Hero counts as a marketable skill.
+
+## 🛠️ Stack
+
+<p align="center">
+  <img alt="Tech stack: Python, TypeScript, Bash, PyTorch, TensorFlow, scikit-learn, FastAPI, Postgres, Redis, Docker, GCP, Kubernetes" src="https://skillicons.dev/icons?i=python,ts,bash,pytorch,tensorflow,sklearn,fastapi,postgres,redis,docker,gcp,kubernetes&theme=dark">
+</p>
+
+## 📊 Live data
+
+<p align="center">
+  <img alt="GitHub stats: stars, PRs, contributions" src="https://github-readme-stats.vercel.app/api?username=jhammarstedt&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000">
+</p>
+
+<p align="center">
+  <img alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jhammarstedt&theme=tokyonight&hide_border=true&background=00000000">
+</p>
+
+<p align="center">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhammarstedt&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000&card_width=400">
+</p>
+
+<p align="center">
+  <img alt="Open-source contribution trophies" src="https://github-profile-trophy.vercel.app/?username=jhammarstedt&theme=tokyonight&no-bg=true&margin-w=15&column=7">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhammarstedt/jhammarstedt/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhammarstedt/jhammarstedt/output/github-contribution-grid-snake.svg">
+    <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/jhammarstedt/jhammarstedt/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<!--
+🎧 Spotify "Now Playing" — uncomment once your Vercel-hosted fork of novatorem/spotify-readme is live.
+Replace YOUR_VERCEL_DEPLOY with the real host (e.g. spotify-github-profile-jhammarstedt.vercel.app).
+
+<p align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+    <img alt="Currently playing on Spotify" src="https://YOUR_VERCEL_DEPLOY.vercel.app/api/spotify">
+  </a>
+</p>
+-->
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:1A1B26&height=120&section=footer)
+
+<!--
+                              ___
+                             /   \
+                            ((    ))
+                             \___/
+                          ░░░░░░░░░░░░░
+                          ░░  ●     ●  ░░
+                          ░░     ▽     ░░
+                          ░░░░░░░░░░░░░░░
+                          you found me ;)
+                          welcome to the source.
+-->
