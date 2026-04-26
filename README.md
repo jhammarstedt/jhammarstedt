@@ -1,4 +1,6 @@
-![Hi, I'm Johan — backend and ML engineer in Stockholm](https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:7AA2F7&height=200&section=header&text=Hi%2C%20I'm%20Johan&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Backend%20%26%20ML%20engineer%20%C2%B7%20Stockholm%20%F0%9F%87%B8%F0%9F%87%AA&descSize=18&descAlignY=62&animation=fadeIn)
+<p align="center">
+  <img alt="Hi, I'm Johan — backend and ML engineer in Stockholm" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:7AA2F7&height=200&section=header&text=Hi%20Johan&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Backend%20%26%20ML%20%C2%B7%20Stockholm&descSize=18&descAlignY=68&animation=fadeIn">
+</p>
 
 <p align="center">
   <picture>
@@ -46,7 +48,9 @@ Like every generic tech person you'll also find me on a hiking trail. If not tha
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:1A1B26&height=120&section=footer)
+<p align="center">
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:1A1B26&height=120&section=footer">
+</p>
 
 <!--
                               ___
