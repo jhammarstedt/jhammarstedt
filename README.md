@@ -1,8 +1,4 @@
 <p align="center">
-  <img alt="Hi, I'm Johan — backend and ML engineer in Stockholm" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:7AA2F7&height=200&section=header&text=Hi%20Johan&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Backend%20%26%20ML%20%C2%B7%20Stockholm&descSize=18&descAlignY=68&animation=fadeIn">
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhammarstedt/jhammarstedt/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhammarstedt/jhammarstedt/output/github-contribution-grid-snake.svg">
